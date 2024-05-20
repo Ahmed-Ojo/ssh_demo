@@ -6,5 +6,9 @@ public class HelloGitConflictExercise {
 		System.out.println("This is Git Conflict Exercise");
 
 	}
-
+    
+	//Dev_2 branch code
+	public void test() {
+		System.out.println("from test method");
+	}
 }

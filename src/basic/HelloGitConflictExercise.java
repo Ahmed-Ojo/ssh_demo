@@ -12,5 +12,9 @@ public class HelloGitConflictExercise {
         System.out.print("Enter a number: ");
 
 	}
-
+    
+	//Dev_2 branch code
+	public void test() {
+		System.out.println("from test method");
+	}
 }
